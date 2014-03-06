@@ -4,14 +4,55 @@
 <dict>
 	<key>EmbeddedEditorHidden:aidanrandle-conde</key>
 	<false/>
-	<key>ExpandedEditorWidth:aidanrandle-conde:displays([(0, 0), (1680, 1050)])</key>
-	<integer>850</integer>
+	<key>ExpandedEditorWidth:aidanrandle-conde:displays([(0, 0), (1680, 1050)]:[(1680, 0), (1920, 1080)])</key>
+	<integer>695</integer>
 	<key>ExpandedItems:aidanrandle-conde</key>
 	<array/>
 	<key>FileFilterMode:aidanrandle-conde</key>
 	<integer>0</integer>
 	<key>OpenDocuments:aidanrandle-conde</key>
-	<array/>
+	<array>
+		<dict>
+			<key>BookmarkData</key>
+			<data>
+			Ym9va/gDAAAAAAQQMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAA6AIAAAUAAAABAQAAVXNlcnMAAAARAAAAAQEAAGFp
+			ZGFucmFuZGxlLWNvbmRlAAAACAAAAAEBAABQcm9qZWN0cw0AAAAB
+			AQAAcHJvamVjdHNfZGF0YQAAAAUAAAABAQAAYm94ZXIAAAAQAAAA
+			AQEAAHByb2plY3RfYm94ZXIucHkYAAAAAQYAAAQAAAAUAAAAMAAA
+			AEAAAABYAAAAaAAAAAgAAAAEAwAA6RACAAAAAAAIAAAABAMAAKjD
+			BQAAAAAACAAAAAQDAAAbkagBAAAAAAgAAAAEAwAAGpmoAQAAAAAI
+			AAAABAMAANHWqAEAAAAACAAAAAQDAABvsqkBAAAAABgAAAABBgAA
+			oAAAALAAAADAAAAA0AAAAOAAAADwAAAACAAAAAAEAABBuMgACwAA
+			ABgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAAAAAAAAEF
+			AAAEAAAAAwMAAAEAAAAEAAAAAwMAAAQAAAAEAAAAAwMAAPUBAAAM
+			AAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAACCIPToAAAAIAAAA
+			AAQAAEG275HaAAAAJAAAAAEBAAA1Q0RGQzRFNi0yMUM0LTNCQ0Qt
+			OEVCRi0zNTkyMEY4ODQwOEUYAAAAAQIAAIEAAAABAAgA7xcAAAEA
+			CAAAAAAAAAAAAAEAAAABAQAALwAAANcAAAABAgAANWVhODBjYjA5
+			ZmUxMzMzYjU0NzY5OWUyYTA4YTYyZDQ2OTA2ZGY3ODswMDAwMDAw
+			MDswMDAwMDAwMDswMDAwMDAwMDAwMDAwMDIwO2NvbS5hcHBsZS5h
+			cHAtc2FuZGJveC5yZWFkLXdyaXRlOzAwMDAwMDAxOzAxMDAwMDAx
+			OzAwMDAwMDAwMDFhOWIyNmY7L3VzZXJzL2FpZGFucmFuZGxlLWNv
+			bmRlL3Byb2plY3RzL3Byb2plY3RzX2RhdGEvYm94ZXIvcHJvamVj
+			dF9ib3hlci5weQAA2AAAAP7///8BAAAAAAAAABEAAAAEEAAAgAAA
+			AAAAAAAFEAAAAAEAAAAAAAAQEAAAMAEAAAAAAABAEAAAIAEAAAAA
+			AABVEAAAWAEAAAAAAABWEAAAUAEAAAAAAAACIAAA/AEAAAAAAAAQ
+			IAAAfAEAAAAAAAARIAAAsAEAAAAAAAASIAAAkAEAAAAAAAATIAAA
+			oAEAAAAAAAAgIAAA3AEAAAAAAAAwIAAAUAEAAAAAAAABwAAAZAEA
+			AAAAAAARwAAAFAAAAAAAAAASwAAAcAEAAAAAAACA8AAACAIAAAAA
+			AAA=
+			</data>
+			<key>FileURL</key>
+			<string>file://localhost/Users/aidanrandle-conde/Projects/projects_data/boxer/project_boxer.py</string>
+			<key>RelativePath</key>
+			<string>./project_boxer.py</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+	</array>
 	<key>OpenDocumentsExpanded</key>
 	<true/>
 	<key>OpenDocumentsVisible</key>
@@ -19,7 +60,54 @@
 	<key>ProjectViewVisible</key>
 	<true/>
 	<key>RecentItems:aidanrandle-conde</key>
-	<array/>
+	<array>
+		<dict>
+			<key>Date</key>
+			<date>2014-03-06T18:07:53Z</date>
+			<key>Location</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va9QDAAAAAAQQMAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAA3AIAAAUAAAABAQAAVXNlcnMA
+				AAARAAAAAQEAAGFpZGFucmFuZGxlLWNvbmRlAAAACAAA
+				AAEBAABQcm9qZWN0cw0AAAABAQAAcHJvamVjdHNfZGF0
+				YQAAAAUAAAABAQAAYm94ZXIAAAAQAAAAAQEAAHByb2pl
+				Y3RfYm94ZXIucHkYAAAAAQYAAAQAAAAUAAAAMAAAAEAA
+				AABYAAAAaAAAAAgAAAAEAwAA6RACAAAAAAAIAAAABAMA
+				AKjDBQAAAAAACAAAAAQDAAAbkagBAAAAAAgAAAAEAwAA
+				GpmoAQAAAAAIAAAABAMAANHWqAEAAAAACAAAAAQDAABv
+				sqkBAAAAABgAAAABBgAAoAAAALAAAADAAAAA0AAAAOAA
+				AADwAAAACAAAAAAEAABBuMgACwAAABgAAAABAgAAAQAA
+				AAAAAAAPAAAAAAAAAAAAAAAAAAAABAAAAAMDAAAEAAAA
+				BAAAAAMDAAD1AQAADAAAAAEBAABNYWNpbnRvc2ggSEQI
+				AAAABAMAAAAgiD06AAAACAAAAAAEAABBtu+R2gAAACQA
+				AAABAQAANUNERkM0RTYtMjFDNC0zQkNELThFQkYtMzU5
+				MjBGODg0MDhFGAAAAAECAACBAAAAAQAIAO8XAAABAAgA
+				AAAAAAAAAAABAAAAAQEAAC8AAAAAAAAAAQUAANcAAAAB
+				AgAANWVhODBjYjA5ZmUxMzMzYjU0NzY5OWUyYTA4YTYy
+				ZDQ2OTA2ZGY3ODswMDAwMDAwMDswMDAwMDAwMDswMDAw
+				MDAwMDAwMDAwMDIwO2NvbS5hcHBsZS5hcHAtc2FuZGJv
+				eC5yZWFkLXdyaXRlOzAwMDAwMDAxOzAxMDAwMDAxOzAw
+				MDAwMDAwMDFhOWIyNmY7L3VzZXJzL2FpZGFucmFuZGxl
+				LWNvbmRlL3Byb2plY3RzL3Byb2plY3RzX2RhdGEvYm94
+				ZXIvcHJvamVjdF9ib3hlci5weQAAwAAAAP7///8BAAAA
+				AAAAAA8AAAAEEAAAgAAAAAAAAAAFEAAAAAEAAAAAAAAQ
+				EAAAMAEAAAAAAABAEAAAIAEAAAAAAAACIAAA6AEAAAAA
+				AAAQIAAAaAEAAAAAAAARIAAAnAEAAAAAAAASIAAAfAEA
+				AAAAAAATIAAAjAEAAAAAAAAgIAAAyAEAAAAAAAAwIAAA
+				9AEAAAAAAAABwAAAUAEAAAAAAAARwAAAFAAAAAAAAAAS
+				wAAAXAEAAAAAAACA8AAA/AEAAAAAAAA=
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/aidanrandle-conde/Projects/projects_data/boxer/project_boxer.py</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+	</array>
 	<key>RecentItemsExpanded</key>
 	<true/>
 	<key>RecentItemsVisible</key>
@@ -33,8 +121,8 @@
 	<key>ToolbarVisible:aidanrandle-conde</key>
 	<true/>
 	<key>ViewSplitterPosition:aidanrandle-conde</key>
-	<real>0.18286813795566559</real>
-	<key>WindowFrame:aidanrandle-conde:displays([(0, 0), (1680, 1050)])</key>
-	<string>rect(88,44,996,1083)</string>
+	<real>0.18256773054599762</real>
+	<key>WindowFrame:aidanrandle-conde:displays([(0, 0), (1680, 1050)]:[(1680, 0), (1920, 1080)])</key>
+	<string>rect(110,66,996,915)</string>
 </dict>
 </plist>
